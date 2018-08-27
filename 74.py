@@ -3,4 +3,4 @@ ans=[]
 for i in x:
 	ans.append((i,i**2))
 
-print(str(ans))
+print((ans))
