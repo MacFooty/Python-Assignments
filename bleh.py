@@ -1,5 +1,0 @@
-l1=list(map(int,input("Enter list 1: ").split()))
-l2=list(map(int,input("Enter list 2: ").split()))
-ans=(l1+l2)
-ans.sort()
-print(str(ans))	
