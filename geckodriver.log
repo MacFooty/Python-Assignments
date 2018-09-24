@@ -1,0 +1,53 @@
+1537788812333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dPgcBFvKvrby"
+1537788818493	Marionette	INFO	Listening on port 35131
+1537788818631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537788818702	Marionette	DEBUG	[2147483649] Frame script loaded
+1537788818718	Marionette	DEBUG	[2147483649] Frame script registered
+1537788833327	Marionette	DEBUG	[4294967297] Frame script loaded
+1537788833328	Marionette	DEBUG	[4294967297] Frame script registered
+1537788833371	Marionette	DEBUG	[4294967299] Frame script loaded
+1537788833372	Marionette	DEBUG	[4294967299] Frame script registered
+1537788835502	Marionette	DEBUG	[4294967303] Frame script loaded
+1537788835502	Marionette	DEBUG	[4294967303] Frame script registered
+1537788836679	Marionette	DEBUG	[4294967306] Frame script loaded
+1537788836682	Marionette	DEBUG	[4294967306] Frame script registered
+1537788837634	Marionette	DEBUG	[4294967309] Frame script loaded
+1537788837635	Marionette	DEBUG	[4294967309] Frame script registered
+1537788838756	Marionette	DEBUG	[4294967312] Frame script loaded
+1537788838758	Marionette	DEBUG	[4294967312] Frame script registered
+1537788839608	Marionette	DEBUG	[4294967315] Frame script loaded
+1537788839611	Marionette	DEBUG	[4294967315] Frame script registered
+1537788842585	Marionette	DEBUG	[4294967318] Frame script loaded
+1537788842586	Marionette	DEBUG	[4294967318] Frame script registered
+1537788843385	Marionette	DEBUG	[4294967321] Frame script loaded
+1537788843386	Marionette	DEBUG	[4294967321] Frame script registered
+1537788844419	Marionette	DEBUG	[4294967324] Frame script loaded
+1537788844419	Marionette	DEBUG	[4294967324] Frame script registered
+1537788845215	Marionette	DEBUG	[4294967327] Frame script loaded
+1537788845219	Marionette	DEBUG	[4294967327] Frame script registered
+1537788845974	Marionette	DEBUG	[4294967330] Frame script loaded
+1537788845980	Marionette	DEBUG	[4294967330] Frame script registered
+1537788851536	Marionette	DEBUG	[4294967333] Frame script loaded
+1537788851537	Marionette	DEBUG	[4294967333] Frame script registered
+1537788852156	Marionette	DEBUG	[4294967336] Frame script loaded
+1537788852169	Marionette	DEBUG	[4294967336] Frame script registered
+1537788852768	Marionette	DEBUG	[4294967339] Frame script loaded
+1537788852769	Marionette	DEBUG	[4294967339] Frame script registered
+1537788853091	Marionette	DEBUG	[4294967342] Frame script loaded
+1537788853102	Marionette	DEBUG	[4294967342] Frame script registered
+1537788853721	Marionette	DEBUG	[4294967345] Frame script loaded
+1537788853721	Marionette	DEBUG	[4294967345] Frame script registered
+1537788854077	Marionette	DEBUG	[4294967348] Frame script loaded
+1537788854078	Marionette	DEBUG	[4294967348] Frame script registered
+1537788854253	Marionette	DEBUG	[4294967351] Frame script loaded
+1537788854253	Marionette	DEBUG	[4294967351] Frame script registered
+1537788854605	Marionette	DEBUG	[4294967354] Frame script loaded
+1537788854606	Marionette	DEBUG	[4294967354] Frame script registered
+1537788854901	Marionette	DEBUG	[4294967357] Frame script loaded
+1537788854901	Marionette	DEBUG	[4294967357] Frame script registered
+1537788855199	Marionette	DEBUG	[4294967360] Frame script loaded
+1537788855200	Marionette	DEBUG	[4294967360] Frame script registered
+1537788856630	Marionette	DEBUG	[4294967363] Frame script loaded
+1537788856635	Marionette	DEBUG	[4294967363] Frame script registered
+[Parent 9960, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1537788859989	Marionette	INFO	Stopped listening on port 35131
